@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Angular, Python**
 
-- 👨‍💻 All of my projects are available at [thomasbarenghi.com](thomasbarenghi.com)
+- 👨‍💻 All of my projects are available at [thomasbarenghi.com](http://thomasbarenghi.com/work)
 
 - 📫 How to reach me **thomasbarenghi@gmail.com**
 
