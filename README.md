@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Typescript, Angular, Python**
 
-- 👨‍💻 All of my projects are available at [thomasbarenghi.com](http://thomasbarenghi.com/work)
+- 👨‍💻 All of my projects are available at [thomasbarenghi.com](https://thomasbarenghi.com/work)
 
 - 📫 How to reach me **thomasbarenghi@gmail.com**
 
-- 📄 Know about my experiences [http://thomasbarenghi.com/cv](http://thomasbarenghi.com/cv)
+- 📄 Know about my experiences [http://thomasbarenghi.com/cv](https://thomasbarenghi.com/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
