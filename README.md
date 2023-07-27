@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👨‍💻 All of my projects are available at [thomasbarenghi.com](thomasbarenghi.com)
+- 👨‍💻 All of my projects are available at [thomasbarenghi.com](https://thomasbarenghi.com)
 
 - 💬 Ask me about **NextJS, Typescript, NodeJS**
 
 - 📫 How to reach me **thomasbarenghi@gmail.com**
 
-- 📄 Know about my experiences [thomasbarenghi.com/cv](thomasbarenghi.com/cv)
+- 📄 Know about my experiences [thomasbarenghi.com/cv](https://thomasbarenghi.com/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
