@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasbarenghi" alt="thomasbarenghi" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Springboot, NestJS**
 
 - 👨‍💻 All of my projects are available at [thomasbarenghi.com](https://thomasbarenghi.com)
 
