@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thomasbarenghi@gmail.com**
 
-- 📄 Know about my experiences [thomasbarenghi.com/cv](https://thomasbarenghi.com/cv)
+- 📄 Know about my experiences [thomasbarenghi.com/resume](https://thomasbarenghi.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
